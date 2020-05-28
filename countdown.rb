@@ -1,5 +1,6 @@
 #write your code here
 
 def countdown
-  LOOPS = 
+  LOOPS = 10 
+  
 end
