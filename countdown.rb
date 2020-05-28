@@ -1,6 +1,9 @@
 #write your code here
 
 def countdown
-  LOOPS = 10 
+  number = 10 
+  while number > 0 
+  puts "#{number} SECOND(S)!"
+  number -= 10 
   
 end
